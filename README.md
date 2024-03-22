@@ -10,7 +10,7 @@ The dataset used in this project contains information about loan applicants incl
 
 The project is structured as follows:
 
-- `data/`: This directory contains the dataset `loan_data.csv`.
+- `data/`: This directory contains the dataset `credit_risk_dataset.csv`.
 - `notebook/`: This directory contains colab notebook used for data exploration, preprocessing, model training, and evaluation.
 - `README.md`: This file provides an overview of the project, its structure, and instructions for running the code.
 
